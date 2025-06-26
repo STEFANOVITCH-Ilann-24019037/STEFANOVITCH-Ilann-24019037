@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 Student at Aix Marseille University but Currently in Uppsala (SU) <br>🤝 I’m looking for an Internship <br>🌱 I’m currently JavaScript 
+🏫 Student at Aix Marseille University but Currently in Uppsala (SU) <br>🤝 I’m looking for an Internship <br>🌱 I’m currently learning JavaScript 
 
 
 ## 🌐 Socials:
