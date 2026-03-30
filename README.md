@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 Student at Aix Marseille University I did 5 months in Uppsala University (UU) <br>🤝 I’m looking for an Internship <br>🌱 I’m currently learning JavaScript 
+🏫 Student at Aix Marseille University I did 5 months in Uppsala University (UU) <br>🤝 I’m looking for a C# project<br>🌱 I’m currently learning JavaScript 
 
 
 ## 🌐 Socials:
